@@ -1,6 +1,10 @@
 # Dayz-1.17-gameplay-file-template
 Dayz 1.17 gameplay file template. This file has the following changes made
 
+Join my discord.....
+https://discord.gg/8XGVWdJqBA
+
+
 [ READY TO GO GAMEPLAY FILE ]
 - [READY TO EDIT GAMEPLAY FILE././.]
 + (I have placed this file togther for you to download and use.)
