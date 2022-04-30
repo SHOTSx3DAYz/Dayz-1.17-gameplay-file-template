@@ -22,7 +22,6 @@ Dayz 1.17 gameplay file template. This file has the following changes made
 + (This file also comes with the following settings changed.)
 
 - [Unlimited sprint] - (ON)
-- [Boosted stam] - (MAX)
 - [Hit indicators] - (OFF)
 - [Build any were] - (ON)
 - [Base damage] - (OFF)
